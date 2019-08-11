@@ -28,6 +28,11 @@ pod 'Localizer', '~> 1.0.2'
 
 # How to use
 
+The most important part is to import it 🚀
+```swift
+import Localizer
+```
+
 ### iOS
 
 ```swift
@@ -70,7 +75,7 @@ let myString = String(for: user,
     .en("Hello"),
     .fr("Bonjour"),
     .ru("Привет"),
-    .es("Hola"), 
+    .es("Hola"),
     .zh_Hans("你好"),
     .ja("こんにちは"))
 print(myString)
