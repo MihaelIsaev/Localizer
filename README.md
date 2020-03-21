@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/cocoapods/v/Localizer.svg" alt="Cocoapod">
     </a>
 </p>
-
+<p align="center"><a href="https://discord.gg/q5wCPYv">SWIFT.STREAM COMMUNITY IN DISCORD</a></p>
 <br>
 
 # Localizer
