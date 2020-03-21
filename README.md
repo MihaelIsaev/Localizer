@@ -8,8 +8,11 @@
     <a href="https://cocoapods.org/pods/Localizer-Plus">
         <img src="https://img.shields.io/cocoapods/v/Localizer.svg" alt="Cocoapod">
     </a>
+    <a href="https://discord.gg/q5wCPYv">
+        <img src="https://img.shields.io/badge/CLICK_HERE_TO_DISCUSS_THIS_LIB-SWIFT.STREAM-FD6F32.svg" alt="Swift.Stream">
+    </a>
 </p>
-<p align="center"><a href="https://discord.gg/q5wCPYv">SWIFT.STREAM COMMUNITY IN DISCORD</a></p>
+
 <br>
 
 # Localizer
